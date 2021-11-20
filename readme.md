@@ -1,1 +1,1 @@
-This is a demo project for CI/CD demo purpose.
+This is a Demo Project for CI/CD Demo Purpose.
