@@ -44,8 +44,8 @@
 						<workerType>${workerType}</workerType>
 						<objectStoreV2>true</objectStoreV2>
 						<properties>
-							<anypoint.platform.client_id>7cbb96bb70e64e2fa798d9f017a164a9</anypoint.platform.client_id>
-							<anypoint.platform.client_secret>6f99584BBbd348BF94419Fe8fd18C84F</anypoint.platform.client_secret>
+							<anypoint.platform.client_id>${anypoint.platform.client_id}</anypoint.platform.client_id>
+							<anypoint.platform.client_secret>${anypoint.platform.client_secret}</anypoint.platform.client_secret>
 						</properties>
 					</cloudHubDeployment>
 				</configuration>
