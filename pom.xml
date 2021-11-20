@@ -35,13 +35,13 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.4.0</muleVersion>
-						<username>gp79590046</username>
-						<password>Sonu@7959</password>
+						<username>${username}</username>
+						<password>${password}</password>
 						<applicationName>testApplication7959</applicationName>
-						<businessGroupId>86c2d383-b03d-430c-8af8-dea901144e8f</businessGroupId>
-						<environment>Dev</environment>
-						<workers>1</workers>
-						<workerType>MICRO</workerType>
+						<businessGroupId>${businessGroupId}</businessGroupId>
+						<environment>${env}</environment>
+						<workers>${workers}</workers>
+						<workerType>${workerType}</workerType>
 						<objectStoreV2>true</objectStoreV2>
 						<properties>
 							<anypoint.platform.client_id>7cbb96bb70e64e2fa798d9f017a164a9</anypoint.platform.client_id>
